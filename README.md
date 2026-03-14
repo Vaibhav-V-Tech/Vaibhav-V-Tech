@@ -12,8 +12,19 @@
           @docker
           @kubernetes
 - 📫 How to reach me: Linkdin,Instagram
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact:
+
+  
+   🚀 I enjoy automating tasks instead of doing them manually
+
+  ☁️ I like exploring cloud services, especially Azure
+
+  🐳 I find Docker and Kubernetes more fun than traditional setups
+
+  📊 I enjoy building dashboards in Grafana
+
+  🔧 Breaking things and fixing them teaches me the most
   
 ===========================================================================================
 <h3 align="left">Connect with me:</h3>
